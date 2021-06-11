@@ -1,7 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> Hi, I’m Gugun Mulyana  
 
-[![Github Badge](https://img.shields.io/badge/-gugunmulyana7@gmail.com-c14438?style=flat-square&logo=Github&logoColor=white&link=mailto:gugunmulyana7@gmail.com)](mailto:gugunmulyana7@gmail.comm)
-  
+[![Github Badge](https://img.shields.io/badge/-gugunmulyanaa-c14438?style=flat-square&logo=Github&logoColor=black&link=mailto:gugunmulyana7@gmail.com)](mailto:gugunmulyana7@gmail.comm)
 [![Gmail Badge](https://img.shields.io/badge/-gugunmulyana7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gugunmulyana7@gmail.com)](mailto:gugunmulyana7@gmail.comm)
 [![Linkedin Badge](https://img.shields.io/badge/-GugunMulyana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gugun-mulyana-b060a01b7/)](https://www.linkedin.com/in/gugun-mulyana-b060a01b7/)
 [![Website Badge](https://img.shields.io/badge/-GugunMulyana.github.io-f39c12?style=flat-square&logo=Rss&logoColor=white&link=https://gugunmulyana.github.io)](https://gugunmulyana.github.io)
