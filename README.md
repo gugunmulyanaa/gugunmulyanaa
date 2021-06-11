@@ -10,7 +10,7 @@
 
 
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 
 
@@ -26,6 +26,6 @@
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gugunmulyanaa&theme=blue-green)](https://github.com/gugunmulyanaa/github-readme-stats)
 
-### enjoy the process 
+### Enjoy the process 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="618" height="464">
 
