@@ -17,3 +17,8 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugunmulyanaa"></img>
+
+
+
+
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
