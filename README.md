@@ -7,5 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-GugunMulyana.github.io-f39c12?style=flat-square&logo=Rss&logoColor=white&link=https://gugunmulyana.github.io)](https://gugunmulyana.github.io)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=januriawan&count_private=true&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gugunmulyanaa&count_private=true&show_icons=true">
 </img>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugunmulyanaa"></img>
