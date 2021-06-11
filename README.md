@@ -26,6 +26,6 @@
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gugunmulyanaa&theme=blue-green)](https://github.com/gugunmulyanaa/github-readme-stats)
 
-### &#x26FE; Enjoy the process 
+###  Enjoy the process &#x26FE;
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="618" height="464">
 
