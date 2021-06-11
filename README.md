@@ -7,6 +7,13 @@
 [![Website Badge](https://img.shields.io/badge/-GugunMulyana.github.io-f39c12?style=flat-square&logo=Rss&logoColor=white&link=https://gugunmulyana.github.io)](https://gugunmulyana.github.io)
 
 
+JSX          21 hrs 33 mins  ████████████████████▒░░░░   81.61 % 
+JavaScript   3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+HTML         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+CSS          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+
+
+
 
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
