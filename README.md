@@ -17,7 +17,7 @@
 
 
 
-
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gugunmulyanaa&theme=blue-green)](https://github.com/gugunmulyanaa/github-readme-stats)
 
 
 
