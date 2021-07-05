@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> Hi, I’m Gugun Mulyana  
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">  Gugun Mulyana  
 
 
 [![Gmail Badge](https://img.shields.io/badge/-gugunmulyana7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gugunmulyana7@gmail.com)](mailto:gugunmulyana7@gmail.comm)
